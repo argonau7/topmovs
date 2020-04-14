@@ -1,0 +1,11 @@
+body div {
+    font-family: fantasy;
+background-color: black;
+}
+h1 {
+text-align: center; 
+}
+.row {
+    display:flex;
+    justify-content: center;
+}
