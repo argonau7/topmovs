@@ -21,3 +21,13 @@ text-align: center;
 .row>div:hover>p {
     display: block;
 }
+.container>ul {
+    margin-top: 40px;
+    
+}
+.ul {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 20em;
+}
